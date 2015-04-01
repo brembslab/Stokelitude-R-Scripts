@@ -1,4 +1,4 @@
-# Stokelitude-R-Scripts
+# Strokelitude-R-Scripts
 A set of R scripts for the analysis of fly wingstroke data acquired with fview strokelitude.
 
 Generally, scripts called "Stroke..." contain functions used by other scripts. Scripts called "Fly..." do the actual analysis.
